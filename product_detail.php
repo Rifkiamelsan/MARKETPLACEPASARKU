@@ -237,3 +237,4 @@ $related_result = mysqli_stmt_get_result($stmt_related);
 <?php endif; ?>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+

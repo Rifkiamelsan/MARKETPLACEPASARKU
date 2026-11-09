@@ -128,3 +128,4 @@ INSERT INTO `order_details` (`id`, `order_id`, `product_id`, `quantity`, `unit_p
 (1, 1, 1, 2, 32000.00, 64000.00),
 (2, 1, 3, 1, 78000.00, 78000.00),
 (3, 2, 9, 1, 65000.00, 65000.00);
+

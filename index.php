@@ -247,3 +247,4 @@ $cats_q = mysqli_query($conn, "SELECT * FROM categories ORDER BY id ASC");
 <?php endif; ?>
 
 <?php require_once __DIR__ . '/includes/footer.php'; ?>
+

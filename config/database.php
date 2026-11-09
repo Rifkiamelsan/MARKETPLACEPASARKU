@@ -86,3 +86,4 @@ if (!$conn) {
 
 // Set charset utf8mb4 agar mendukung karakter luas & emoji
 mysqli_set_charset($conn, 'utf8mb4');
+

@@ -68,3 +68,4 @@ if ($order_count > 0) {
 
 header('Location: ' . base_url('admin/products.php'));
 exit;
+

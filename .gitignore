@@ -16,3 +16,7 @@ Desktop.ini
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Dokumen Laporan Pengujian (Disimpan terpisah / PDF untuk dosen)
+DOKUMEN_LAPORAN_SOAL_12.html
+LAPORAN_SOAL_12_REST_API.md

@@ -24,3 +24,4 @@ return [
     // Port standar MySQL
     'DB_PORT' => 3306,
 ];
+

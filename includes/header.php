@@ -209,3 +209,4 @@ $nav_categories_result = mysqli_query($conn, $nav_categories_query);
 <main class="py-4">
     <div class="container">
         <?php display_flash(); ?>
+

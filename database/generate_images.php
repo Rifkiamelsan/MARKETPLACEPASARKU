@@ -36,3 +36,4 @@ foreach ($items as $item) {
     file_put_contents($dir . $fn, $svg);
 }
 echo "Sample product images created successfully!\n";
+

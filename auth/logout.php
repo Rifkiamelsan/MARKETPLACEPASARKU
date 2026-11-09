@@ -29,3 +29,4 @@ set_flash('info', $flash_msg);
 
 header('Location: ' . base_url('index.php'));
 exit;
+
