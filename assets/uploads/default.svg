@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#198754" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#20c997" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)"/>
+  <rect x="20" y="20" width="560" height="410" rx="16" fill="none" stroke="#198754" stroke-width="2" stroke-dasharray="8 8" opacity="0.4"/>
+  <g transform="translate(300, 200)" text-anchor="middle">
+    <circle cx="0" cy="-20" r="50" fill="#198754" opacity="0.15"/>
+    <text x="0" y="-2" font-size="44" text-anchor="middle">🧺</text>
+    <text x="0" y="55" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#198754">PasarKu</text>
+    <text x="0" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6c757d">Produk Pasar Tradisional</text>
+  </g>
+</svg>
