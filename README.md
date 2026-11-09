@@ -141,3 +141,4 @@ Untuk mempermudah proses evaluasi dan pengujian sistem:
 
 Aplikasi ini dikembangkan untuk pemenuhan tugas mata kuliah Pemrograman Web dan Basis Data.
 Dibuat dengan ❤️ untuk mendukung kemajuan UMKM dan Pedagang Pasar Tradisional Indonesia.
+
